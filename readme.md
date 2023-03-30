@@ -1,7 +1,5 @@
 # Introduction
 
-![main image](./misc/figure.PNG)
-
 Please download the dataset from [here](https://github.com/jingyang2017/Face-and-Image-super-resolution). Then store High-resolution dataset into /../HR, and /../LR, respectively.
 
 # Usage
@@ -24,3 +22,4 @@ TBA
 # Reference
 
 Maeda, Shunta. "Unpaired Image Super-Resolution using Pseudo-Supervision." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+Shunta Maeda."Unpaired Image Super-Resolution using Pseudo-Supervision." CVPR ,2020
