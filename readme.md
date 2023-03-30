@@ -1,10 +1,8 @@
 # Introduction
 
-This repo contains an unofficial implementation of [pseudo-sr](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf).
-
 ![main image](./misc/figure.PNG)
 
-Download the dataset from [here](https://github.com/jingyang2017/Face-and-Image-super-resolution).
+Please download the dataset from [here](https://github.com/jingyang2017/Face-and-Image-super-resolution). Then store High-resolution dataset into /../HR, and /../LR, respectively.
 
 # Usage
 
