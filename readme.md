@@ -1,6 +1,6 @@
 # Introduction
 
-Please download the dataset from [here](https://github.com/jingyang2017/Face-and-Image-super-resolution). Then store High-resolution dataset into /../HR, and /../LR, respectively.
+Please download the dataset from [here](https://github.com/jingyang2017/Face-and-Image-super-resolution). Then store High-resolution dataset into /../HR, and low-resolution dataset into /../LR, respectively.
 
 # Usage
 
