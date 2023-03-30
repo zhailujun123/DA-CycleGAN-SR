@@ -22,4 +22,4 @@ TBA
 # Reference
 
 Maeda, Shunta. "Unpaired Image Super-Resolution using Pseudo-Supervision." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
-Shunta Maeda."Unpaired Image Super-Resolution using Pseudo-Supervision." CVPR ,2020
+
