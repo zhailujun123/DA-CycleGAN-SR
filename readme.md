@@ -11,7 +11,7 @@ Download the dataset from [here](https://github.com/jingyang2017/Face-and-Image-
 First, configure the yaml file which is located at `configs/faces.yaml`. Set the root folder of face dataset to `DATA.FOLDER`.
 
 To train:
-python3 train.py configs
+python3 train.py configs/faces.yaml
 ```
 CUDA_VISIBLE_DEVICES=2,3 python train.py configs/faces.yaml --port 12121
 ```
